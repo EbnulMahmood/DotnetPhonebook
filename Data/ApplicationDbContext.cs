@@ -14,6 +14,5 @@ namespace DotnetPhonebook.Data
         }
 
         public DbSet<Phone> Phones { get; set; }
-        public DbSet<Admin> Admins { get; set; }
     }
 }

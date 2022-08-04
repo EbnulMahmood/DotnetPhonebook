@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\dotnet\\DotnetPhonebook\\Views\\Phones\\Edit.cshtml",
+      "TargetPath": "Views\\Phones\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\dotnet\\DotnetPhonebook\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -16320,6 +16325,11 @@
     {
       "FilePath": "d:\\dotnet\\DotnetPhonebook\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\dotnet\\DotnetPhonebook\\Views\\Phones\\Create.cshtml",
+      "TargetPath": "Views\\Phones\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
