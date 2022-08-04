@@ -19,7 +19,7 @@ namespace DotnetPhonebook.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var phones = await _context.Phones.ToListAsync();
+            var phones = await _context.Phones.OrderBy(p => p.OwnerName).ToListAsync();
             return View(phones);
         }
 
