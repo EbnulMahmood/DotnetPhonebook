@@ -1,0 +1,39 @@
+@model List<DotnetPhonebook.Models.Domain.Phone>
+
+<div class="row">
+    <div class="col-md-12">
+        <a asp-action="Create" asp-controller="Phones" class="btn btn-success">Create</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Email</td>
+                    <td>Mobile</td>
+                    <td>Action</td>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.OwnerName</td>
+                    <td>@item.Email</td>
+                    <td>@item.Number</td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Phones" asp-route-id="@item.Id">
+                            Edit
+                        </a>
+                        <a asp-action="Delete" asp-controller="Phones" asp-route-id="@item.Id">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
