@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {}
+    "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {
+    "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+        "projectUniqueName": "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
         "projectName": "DotnetPhonebook",
-        "projectPath": "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+        "projectPath": "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\DotnetPhonebook\\obj\\",
+        "outputPath": "d:\\dotnet\\DotnetPhonebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

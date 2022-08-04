@@ -1,7 +1,13 @@
+using DotnetPhonebook.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<PhoneBookDbContext>(options =>
+    options.UseSqlServer(builder.Configuration
+        .GetConnectionString("PhoneBookDbContext")));
 
 var app = builder.Build();
 
