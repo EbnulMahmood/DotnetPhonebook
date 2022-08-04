@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {}
+    "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {}
   },
   "projects": {
-    "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {
+    "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+        "projectUniqueName": "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
         "projectName": "DotnetPhonebook",
-        "projectPath": "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+        "projectPath": "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\dotnet\\DotnetPhonebook\\obj\\",
+        "outputPath": "D:\\dotnet\\DotnetPhonebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,11 +38,25 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
             }

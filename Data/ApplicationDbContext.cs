@@ -7,12 +7,13 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DotnetPhonebook.Data
 {
-    public class PhoneBookDbContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public PhoneBookDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
 
         public DbSet<Phone> Phones { get; set; }
+        public DbSet<Admin> Admins { get; set; }
     }
 }
