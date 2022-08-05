@@ -30,7 +30,7 @@ public class HomeController : Controller
             }
             ClaimsIdentity? identity = null;
             bool isAuthenticate = false;
-            if (username=="admin" && password=="a")
+            if (username=="admin" && password=="1234qwer")
             {
                 identity = new ClaimsIdentity(new[]
                 {
@@ -39,7 +39,7 @@ public class HomeController : Controller
                 }, CookieAuthenticationDefaults.AuthenticationScheme);
                 isAuthenticate = true;
             }
-            if (username == "demo" && password == "c")
+            if (username == "User" && password == "user1234")
             {
                 identity = new ClaimsIdentity(new[]
                 {
