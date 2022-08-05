@@ -16298,11 +16298,6 @@
   "RootNamespace": "DotnetPhonebook",
   "Documents": [
     {
-      "FilePath": "d:\\dotnet\\DotnetPhonebook\\Views\\Phones\\Signin.cshtml",
-      "TargetPath": "Views\\Phones\\Signin.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\dotnet\\DotnetPhonebook\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
