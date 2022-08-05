@@ -1,9 +1,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using DotnetPhonebook.Data;
 using DotnetPhonebook.Models.Domain;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -15,20 +19,23 @@ namespace DotnetPhonebook.Controllers
         public PhonesController(ApplicationDbContext context)
         {
             _context = context;
-        }
+        }  
 
+        [AllowAnonymous]
         public async Task<IActionResult> Index()
         {
             var phones = await _context.Phones.OrderBy(p => p.OwnerName).ToListAsync();
             return View(phones);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Create(Phone phone)
         {
@@ -53,6 +60,7 @@ namespace DotnetPhonebook.Controllers
             return View(phone);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Edit(Guid id)
         {
@@ -61,6 +69,7 @@ namespace DotnetPhonebook.Controllers
             return View(exist);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Edit(Phone phone)
         {
@@ -92,6 +101,7 @@ namespace DotnetPhonebook.Controllers
             return View(phone);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public async Task<IActionResult> Delete(Guid id)
         {
@@ -100,6 +110,7 @@ namespace DotnetPhonebook.Controllers
             return View(exist);
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> Delete(Phone phone)
         {

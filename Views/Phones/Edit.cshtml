@@ -1,5 +1,9 @@
 @model DotnetPhonebook.Models.Domain.Phone
 
+@{
+    ViewData["Title"] = "Edit Contact";
+}
+
 <form asp-action="Edit" asp-area="Phones" method="post">
     <input type="hidden" asp-for="Id" />
     <div class="row">

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {}
+    "D:\\dotnet\\Phonebook\\DotnetPhonebook\\DotnetPhonebook.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj": {
+    "D:\\dotnet\\Phonebook\\DotnetPhonebook\\DotnetPhonebook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+        "projectUniqueName": "D:\\dotnet\\Phonebook\\DotnetPhonebook\\DotnetPhonebook.csproj",
         "projectName": "DotnetPhonebook",
-        "projectPath": "D:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+        "projectPath": "D:\\dotnet\\Phonebook\\DotnetPhonebook\\DotnetPhonebook.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\DotnetPhonebook\\obj\\",
+        "outputPath": "D:\\dotnet\\Phonebook\\DotnetPhonebook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

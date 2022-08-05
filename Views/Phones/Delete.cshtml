@@ -1,5 +1,9 @@
 @model DotnetPhonebook.Models.Domain.Phone
 
+@{
+    ViewData["Title"] = "Delete Contact";
+}
+
 <form asp-action="Delete" asp-area="Phones" method="post">
     <input type="hidden" asp-for="Id" />
     <div class="row">

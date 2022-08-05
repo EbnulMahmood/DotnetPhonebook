@@ -2544,11 +2544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+      "projectUniqueName": "D:\\dotnet\\Phonebook\\DotnetPhonebook\\DotnetPhonebook.csproj",
       "projectName": "DotnetPhonebook",
-      "projectPath": "d:\\dotnet\\DotnetPhonebook\\DotnetPhonebook.csproj",
+      "projectPath": "D:\\dotnet\\Phonebook\\DotnetPhonebook\\DotnetPhonebook.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "d:\\dotnet\\DotnetPhonebook\\obj\\",
+      "outputPath": "D:\\dotnet\\Phonebook\\DotnetPhonebook\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
