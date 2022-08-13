@@ -14,6 +14,6 @@ namespace DotnetPhonebook.Data
         }
 
         public DbSet<Phone> Phones { get; set; }
-        public DbSet<Account> Accounts { get; set; }
+        // public DbSet<Account> Accounts { get; set; }
     }
 }

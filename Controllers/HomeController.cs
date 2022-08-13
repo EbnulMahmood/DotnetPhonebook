@@ -52,7 +52,7 @@ public class HomeController : Controller
             {
                 var principal = new ClaimsPrincipal(identity);
                 var login = HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, principal);
-                return RedirectToAction("Index", "Phones");
+                return RedirectToAction("Phone", "Phones");
             }
             return View();
         }

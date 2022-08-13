@@ -29,10 +29,24 @@ namespace DotnetPhonebook.Controllers
         }
 
         [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> Phone()
+        {
+            var phones = await _context.Phones.OrderBy(p => p.OwnerName).ToListAsync();
+            return View(phones);
+        }
+
+        // [Authorize(Roles = "Admin")]
+        // [HttpGet]
+        // public IActionResult Create()
+        // {
+        //     return View();
+        // }
+        [Authorize(Roles = "Admin")]
         [HttpGet]
         public IActionResult Create()
         {
-            return View();
+            Phone phone = new Phone();
+            return PartialView("_PhoneModal", phone);
         }
 
         [Authorize(Roles = "Admin")]

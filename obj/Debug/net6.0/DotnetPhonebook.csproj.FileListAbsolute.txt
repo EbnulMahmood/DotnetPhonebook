@@ -1,0 +1,134 @@
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\appsettings.Development.json
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\appsettings.json
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.staticwebassets.runtime.json
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.exe
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.deps.json
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.runtimeconfig.json
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\ref\DotnetPhonebook.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.pdb
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.csproj.AssemblyReference.cache
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.AssemblyInfoInputs.cache
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.AssemblyInfo.cs
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.csproj.CoreCompileInputs.cache
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.RazorAssemblyInfo.cache
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.RazorAssemblyInfo.cs
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\staticwebassets.build.json
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\staticwebassets.development.json
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\scopedcss\bundle\DotnetPhonebook.styles.css
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\scopedcss\projectbundle\DotnetPhonebook.bundle.scp.css
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.dll
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\ref\DotnetPhonebook.dll
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.pdb
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.genruntimeconfig.cache
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnet\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.csproj.CopyComplete
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Humanizer.dll
+D:\dotnet\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\appsettings.Development.json
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\appsettings.json
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.staticwebassets.runtime.json
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.exe
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.deps.json
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.runtimeconfig.json
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\ref\DotnetPhonebook.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\DotnetPhonebook.pdb
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Humanizer.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\dotnet\New folder\DotnetPhonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.csproj.AssemblyReference.cache
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.AssemblyInfoInputs.cache
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.AssemblyInfo.cs
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.csproj.CoreCompileInputs.cache
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.MvcApplicationPartsAssemblyInfo.cache
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.RazorAssemblyInfo.cache
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.RazorAssemblyInfo.cs
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\staticwebassets.build.json
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\staticwebassets.development.json
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\scopedcss\bundle\DotnetPhonebook.styles.css
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\scopedcss\projectbundle\DotnetPhonebook.bundle.scp.css
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.csproj.CopyComplete
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.dll
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\ref\DotnetPhonebook.dll
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.pdb
+D:\dotnet\New folder\DotnetPhonebook\obj\Debug\net6.0\DotnetPhonebook.genruntimeconfig.cache

@@ -20,7 +20,12 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration
     .GetConnectionString("DefaultConnection")));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
-
+// builder.Services.AddIdentityCore<AppUser>(opt =>
+//     {
+//         opt.Password.RequireNonAlphanumeric = false;
+//     })
+//     .AddEntityFrameworkStores<ApplicationDbContext>()
+//     .AddSignInManager<SignInManager<AppUser>>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

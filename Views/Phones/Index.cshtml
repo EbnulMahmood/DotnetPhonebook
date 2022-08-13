@@ -1,43 +1,99 @@
 @model List<DotnetPhonebook.Models.Domain.Phone>
 
 @{
-    ViewData["Title"] = "Phonebook";
+    ViewData["Title"] = "Home";
 }
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <div class="row">
     <div class="col-md-12">
-        <a asp-action="Create" asp-controller="Phones" class="btn btn-success">Create</a>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card text-white bg-dark">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <div class="d-flex justify-content-between">
+                                <div>
+                                    <i class="fa-solid fa-phone fa-5x"></i>
+                                </div>
+                                <div>
+                                    <h4 class="text-white">
+                                        Total: @Model.Count()
+                                    </h4>
+                                </div>
+                            </div>
+                        </h5>
+                        <p class="card-text">
+                            This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card text-white bg-dark">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <div class="d-flex justify-content-between">
+                            <div>
+                                <i class="fa-solid fa-user fa-5x"></i>
+                            </div>
+                            <div>
+                                <h4 class="text-white">
+                                    Count
+                                </h4>
+                            </div>
+                        </div>
+                    </h5>
+                    <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card text-white bg-dark">
+                <div class="card-body">
+                    <h5 class="card-title">Chart</h5>
+                    <p class="card-text">
+                        <div>
+                            <canvas id="myChart"></canvas>
+                        </div>
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
-<div class="row">
-    <div class="col-md-12">
-        <table class="table">
-            <thead>
-                <tr>
-                    <td>Name</td>
-                    <td>Email</td>
-                    <td>Mobile</td>
-                    <td>Action</td>
-                </tr>
-            </thead>
-            <tbody>
-            @foreach (var item in Model)
-            {
-                <tr>
-                    <td>@item.OwnerName</td>
-                    <td>@item.Email</td>
-                    <td>@item.Number</td>
-                    <td>
-                        <a asp-action="Edit" asp-controller="Phones" asp-route-id="@item.Id">
-                            Edit
-                        </a>
-                        <a asp-action="Delete" asp-controller="Phones" asp-route-id="@item.Id">
-                            Delete
-                        </a>
-                    </td>
-                </tr>
-            }
-            </tbody>
-        </table>
-    </div>
-</div>
+
+<script>
+  const labels = [
+    'January',
+    'February',
+    'March',
+    'April',
+    'May',
+    'June',
+  ];
+
+  const data = {
+    labels: labels,
+    datasets: [{
+      label: 'My First dataset',
+      backgroundColor: 'rgb(255, 99, 132)',
+      borderColor: 'rgb(255, 99, 132)',
+      data: [0, 10, 5, 2, 20, 30, 45],
+    }]
+  };
+
+  const config = {
+    type: 'line',
+    data: data,
+    options: {}
+  };
+</script>
+
+<script>
+  const myChart = new Chart(
+    document.getElementById('myChart'),
+    config
+  );
+</script>

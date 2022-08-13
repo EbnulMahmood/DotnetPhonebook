@@ -8,53 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DotnetPhonebook
 build_property.RootNamespace = DotnetPhonebook
-build_property.ProjectDir = d:\dotnet\DotnetPhonebook\
+build_property.ProjectDir = D:\dotnet\DotnetPhonebook\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\dotnet\DotnetPhonebook
+build_property.MSBuildProjectDirectory = D:\dotnet\DotnetPhonebook
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/dotnet/DotnetPhonebook/Views/Home/Index.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Home/Privacy.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Phones/Create.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Phones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Phones/Delete.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Phones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Phones/Edit.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Phones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Phones/Index.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Phones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Shared/Error.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Phones/Phone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXFBob25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet/DotnetPhonebook/Views/Phones/_PhoneModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXF9QaG9uZU1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/dotnet/DotnetPhonebook/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/_ViewImports.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/_ViewStart.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/dotnet/DotnetPhonebook/Views/Shared/_Layout.cshtml]
+[D:/dotnet/DotnetPhonebook/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ml52qy14e2
